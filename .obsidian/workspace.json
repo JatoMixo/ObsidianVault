@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "dd2de91185a541ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa3efed480e19d11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99b321e7301197b8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3bfd63fc8720035e",
+    "type": "split",
+    "children": [
+      {
+        "id": "0eaef2b97c4eba04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e6a1ccb4b34afcf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "14a9c7170b2291b2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9518a7ebf491418e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e26677936b59411b",
+    "type": "split",
+    "children": [
+      {
+        "id": "95d061a68d542732",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9da9403aceab4fb0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "99b7e867a4b8ab0e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fc171cd7056183e0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bebbaa8a1d921c25",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "a31bfe9785dc51c4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "99b321e7301197b8",
+  "lastOpenFiles": [
+    "Arch Linux/Arch Linux.md",
+    "Arch Linux/Network Manager.md",
+    "Arch Linux/Minimal Install.md",
+    "Resources/Hacking/Responder.md",
+    "Resources/Roadmaps.md",
+    "Resources/UnityWebs",
+    "Resources/Web",
+    "Resources/Python",
+    "Resources/Linux",
+    "Resources/CSharp",
+    "Resources/Rust",
+    "Resources/Hacking",
+    "Resources",
+    "Arch Linux/KDE Plasma and SDDM.md",
+    "NeoVim/NeoVim.md",
+    "NeoVim",
+    "Arch Linux/Packer.Nvim.md",
+    "Arch Linux/Kitty ZSH.md",
+    "Arch Linux/Xorg.md",
+    "Arch Linux/BlackArch Repos.md",
+    "Arch Linux/Yay (Yet Another Yogurt).md",
+    "Unity/Unity.md",
+    "Unity/Unity GetAxis.md",
+    "Unity/Unity Raycast.md",
+    "Web Pages for Training or Learning.md",
+    "Arch Linux/Paru.md",
+    "Arch Linux",
+    "This is nice.md",
+    "Patato.md"
+  ]
+}
