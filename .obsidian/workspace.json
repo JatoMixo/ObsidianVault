@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fa3efed480e19d11",
+        "id": "79950e968bff839a",
         "type": "tabs",
         "children": [
           {
-            "id": "99b321e7301197b8",
+            "id": "077f9146a167568a",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -148,11 +148,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "99b321e7301197b8",
+  "active": "077f9146a167568a",
   "lastOpenFiles": [
+    "Arch Linux/Minimal Install.md",
     "Arch Linux/Arch Linux.md",
     "Arch Linux/Network Manager.md",
-    "Arch Linux/Minimal Install.md",
     "Resources/Hacking/Responder.md",
     "Resources/Roadmaps.md",
     "Resources/UnityWebs",

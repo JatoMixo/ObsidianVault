@@ -29,6 +29,7 @@ cfdisk
 Now select the label type, for basic usage you should select:
 - `GPT`: In case you have a disk bigger than 2TB and your machine uses UEFI
 - `DOS`: Otherwise
+## [GPT vs DOS](https://wiki.archlinux.org/title/Partitioning#Choosing_between_GPT_and_MBR)
 
 Now create 3 partitions:
 ## /dev/sda1
