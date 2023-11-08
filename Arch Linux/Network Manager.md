@@ -10,13 +10,13 @@ nmcli device wifi list
 
 # Connect to a wifi
 ```bash
-nmcli device connect WIFI_NAME password WIFI_PASSWORD
+nmcli device wifi connect WIFI_NAME password WIFI_PASSWORD
 ```
 In case it's hidden:
 ```bash
-nmcli device connect WIFI_NAME password WIFI_PASSWORD hidden yes
+nmcli device wifi connect WIFI_NAME password WIFI_PASSWORD hidden yes
 ```
 # Disconnect from a wifi
 ```bash
-nmcli device disconnect ifname eth0
+nmcli device wifi disconnect ifname eth0
 ```

@@ -7,7 +7,7 @@ It is an open source display server commonly used in several Linux distros.
 # Installation
 Easiest way to install it is with the group `xorg`.
 ```bash
-sudo pacman -S xorg
+sudo pacman -S xorg xorg-server xorg-xinit
 ```
 
 Then you can install the corresponding driver for your GPU.
