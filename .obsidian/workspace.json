@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "79950e968bff839a",
+        "id": "0bba8b285c1cf7fc",
         "type": "tabs",
         "children": [
           {
-            "id": "077f9146a167568a",
+            "id": "2176d65c8e6eb7fb",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -148,10 +148,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "077f9146a167568a",
+  "active": "2176d65c8e6eb7fb",
   "lastOpenFiles": [
-    "NFC RFID ClonerEmulator/NFC RFID Cloner and Emulator.md",
-    "NFC RFID ClonerEmulator",
+    "NFC RFID/NFC RFID.md",
+    "NFC RFID",
     "Arch Linux/Arch Linux.md",
     "Arch Linux/Kitty ZSH.md",
     "Arch Linux/Minimal Install.md",
